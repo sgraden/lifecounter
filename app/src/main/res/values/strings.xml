@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="action_settings">Settings</string>
 
     <string name="app_name">lifecounter</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="PlayerName">Player %d</string>
+
+    <string name="PlusOne">+1</string>
+    <string name="PlusFive">+5</string>
+
+    <string name="Health">20</string>
+
+    <string name="MinOne">-1</string>
+    <string name="MinFive">-5</string>
 
 </resources>
