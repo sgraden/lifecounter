@@ -2,7 +2,7 @@
 <resources>
     <string name="action_settings">Settings</string>
 
-    <string name="app_name">lifecounter</string>
+    <string name="app_name">LifeCounter</string>
     <string name="player_name">Player %d</string>
 
     <string name="PlusOne">+1</string>
