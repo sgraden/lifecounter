@@ -3,12 +3,12 @@
     <string name="action_settings">Settings</string>
 
     <string name="app_name">lifecounter</string>
-    <string name="PlayerName">Player %d</string>
+    <string name="player_name">Player %d</string>
 
     <string name="PlusOne">+1</string>
     <string name="PlusFive">+5</string>
 
-    <string name="Health">20</string>
+    <!--<string name="Health">20</string>-->
 
     <string name="MinOne">-1</string>
     <string name="MinFive">-5</string>

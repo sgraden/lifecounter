@@ -10,21 +10,21 @@
     android:orientation="vertical">
 
 
-    <include android:id="@+id/player_one"
+    <include android:id="@+id/player1"
         layout="@layout/player_layout" />
 
-    <include android:id="@+id/player_two"
+    <include android:id="@+id/player2"
         layout="@layout/player_layout" />
 
-    <include android:id="@+id/player_three"
+    <include android:id="@+id/player3"
         layout="@layout/player_layout" />
 
-    <include android:id="@+id/player_four"
+    <include android:id="@+id/player4"
         layout="@layout/player_layout" />
 
-    <!--<Button android:id="@+id/AddPlayer"-->
-        <!--android:text="Add New Player"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content" />-->
+    <Button android:id="@+id/AddPlayer"
+        android:text="Add New Player"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 </LinearLayout>
 </ScrollView>
